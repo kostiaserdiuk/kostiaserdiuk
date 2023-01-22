@@ -1,2 +1,1 @@
-# serdiuk
-Config for profile
+
