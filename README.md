@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kostia</h1>
-<h3 align="center">A Python Developer from Ukraine</h3>
+<h3 align="center">Python Developer from Ukraine</h3>
 
 <!-- - 📄 Know about my experiences [https://cv.djinni.co/e9/c32edce2b9c49d30d4fbd30ee83879/KostiantynSResume_1.5.pdf](https://cv.djinni.co/e9/c32edce2b9c49d30d4fbd30ee83879/KostiantynSResume_1.5.pdf) -->
 
